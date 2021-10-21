@@ -19,7 +19,7 @@
     /* set the text color to black here */
     /* set the font here */
     /* set the text alignment here */
-    background-color: beige;
+    background-color: grey;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
@@ -68,5 +68,4 @@
     margin: 0 auto;
     text-align: left;
   }
-.button{background-color: blue;
-text-align:right-top;}
+.button{background-color: blue;}
