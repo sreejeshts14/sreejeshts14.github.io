@@ -1,0 +1,26 @@
+
+ 
+
+  body {
+    /* set the background color here */
+    /* set the text color to black here */
+    /* set the font here */
+    /* set the text alignment here */
+    background-color: #ffffff;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+   }
+
+
+ div {
+  display: flex;
+  justify-content: flex-end;
+}
+ 
+
+button{background-color:#4B17C2;margin:10px;
+color:white;
+
+
+border:20px;}
